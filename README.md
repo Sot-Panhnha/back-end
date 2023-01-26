@@ -3,6 +3,6 @@
 ### `develop`
 
 ```
-npm run concurrent
+npm run develop
 ```
 
